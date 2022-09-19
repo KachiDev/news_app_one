@@ -1,0 +1,28 @@
+.body {
+  box-sizing: border-box;
+}
+
+.news-app {
+  display: flex;
+  justify-content: center;
+}
+
+.news-item {
+  width: 500px;
+  padding: 20px;
+  border: 5px gray solid;
+  margin-bottom: 20px;
+  background-color: bisque;
+}
+
+.news-img {
+  width: 400px;
+}
+
+.Navbar {
+  background-color: black;
+}
+
+h1 {
+  color: yellow;
+}
